@@ -19,4 +19,4 @@ end
 
 board=["X"," "," "," "," "," "," "," ","X"]
 puts "This is an example"
-position_taken?(board,0) = true
+position_taken?(board,0) == true
