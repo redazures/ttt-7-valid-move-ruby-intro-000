@@ -18,4 +18,4 @@ def position_taken?(board,index)
 end
 
 board=[" "," "," "," "," "," "," "," "," ",]
-puts board
+puts "This is an example"
