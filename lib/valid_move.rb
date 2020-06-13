@@ -19,4 +19,4 @@ end
 
 board=["X"," "," "," "," "," "," "," ","X"]
 puts "This is an example"
-puts board
+position_taken?(board,0)
