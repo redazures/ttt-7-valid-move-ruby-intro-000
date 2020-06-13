@@ -19,4 +19,7 @@ end
 
 board=["X"," "," "," "," "," "," "," ","X"]
 puts "This is an example"
-position_taken?(board,0) == true
+if position_taken?(board,0) == true
+  puts "This is true"
+else
+  puts"this aint working"
