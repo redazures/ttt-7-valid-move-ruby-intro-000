@@ -17,6 +17,6 @@ def position_taken?(board,index)
   end
 end
 
-board=["X"," "," "," "," "," "," "," "," "]
+board=["X"," "," "," "," "," "," "," ","X"]
 puts "This is an example"
 puts board
